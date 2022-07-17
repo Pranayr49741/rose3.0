@@ -73,7 +73,7 @@ class Config(object):
     )
     ARQ_API = "awoo"
     APOD_API_KEY = "awoo"
-    REDIS_URL = "awoo"
+    REDIS_URL = "redis-12706.c11.us-east-1-2.ec2.cloud.redislabs.com:12706"
     ANIME_NAME = "Shikimori's Not Just a Cutie"
     START_MEDIA = "https://telegra.ph/file/9235d57807362b4e227a3.mp4"
     BOT_USERNAME = "micchon_shikimori_bot"
